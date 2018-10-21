@@ -14,3 +14,5 @@
 - 当订单表更新记录时，自动将新的客户信息更新到客户表中 (T_Orders_update)
 
 ## 界面
+
+![界面](https://github.com/Dshylove/images/raw/master/PhoneSales/interface.png)
